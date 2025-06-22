@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Mera Page</title>
+</head>
+<body>
+  <h1>Assalamu Alaikum!</h1>
+  <p>Yeh meri pehli HTML website hai.</p>
+</body>
+</html>
